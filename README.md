@@ -1,6 +1,12 @@
-# 100-days-of-oss-template
+# 100DaysOfOss Progress Tracker
 A journal template to help you keep up with your #100DaysOfOSS work. 
 
+## Day 1
+- **Project**:
+- **Description of Project**:
+- **Goals**:
+- **Challenges I've faced**:
+- 
 ## Instructions
 We recommend that you use this template to keep track of your work during the challenge. You can use it as a starting point and customize it to your needs. 
 
