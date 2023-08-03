@@ -1,5 +1,4 @@
 # 100DaysOfOss Progress Tracker
-A journal template to help you keep up with your #100DaysOfOSS work. 
 
 ## Day 1
 - **Project**:
